@@ -16,10 +16,8 @@
 
 ## Instructors & Staff
 
-| Role | Name | Affiliation |
-|------|------|-------------|
-| **Instructor** | Prof. Lendák Imre | Full Professor, ELTE |
-| **Teaching Assistant** | Ahmed F. Lagha | PhD Candidate, ELTE |
+- **Instructor**: Prof. Lendák Imre 
+- **Teaching Assistant**: Ahmed F. Lagha
 
 ## Course Overview
 
