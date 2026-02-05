@@ -97,15 +97,6 @@ This course is built upon foundational materials from:
 - *Practical Data Privacy* — Katharine Jarmul (O'Reilly, 2023)
 - *Adversarial Machine Learning* — Goodfellow, Biggio et al. (Cambridge University Press)
 
-## Technical Stack
-
-| Category | Tools |
-|----------|-------|
-| **Deep Learning** | PyTorch, torchvision |
-| **Data Science** | NumPy, Pandas, Scikit-learn |
-| **Visualization** | Matplotlib, Seaborn |
-| **Privacy** | Opacus (optional for DP-SGD) |
-
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
