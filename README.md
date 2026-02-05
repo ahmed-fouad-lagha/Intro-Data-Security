@@ -5,10 +5,12 @@
   <img src="https://img.shields.io/badge/Level-Master's-orange" alt="Level"/>
   <img src="https://img.shields.io/badge/Framework-PyTorch-red" alt="Framework"/>
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License"/>
+
+**A hands-on practicum for adversarial machine learning, privacy attacks, and secure AI systems.**
 </p>
 
-> **A hands-on practicum for adversarial machine learning, privacy attacks, and secure AI systems.**
----
+
+
 
 ## Instructors & Staff
 
