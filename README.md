@@ -23,8 +23,7 @@ This course provides a comprehensive, hands-on introduction to the security and 
 
 | Module | Lab | Topic | Link |
 |--------|-----|-------|------|
-| **1. Foundations** | 1a | DNN Training & Robust Model Baselines | [Notebook](module_01_foundations/Lab_1a_DNN_Training_and_Robust_Models.ipynb) |
-| | 1b | Threat Modeling & Attack Taxonomy | [Notebook](module_01_foundations/Lab_1b_Threat_Modeling_and_Attack_Taxonomy.ipynb) |
+| **1. Foundations** | 1a | DNN Training & Robust Model Baselines | [Notebook](module_01_foundations/Lab1_DNN_Training_and_Robust_Models.ipynb) |
 | **2. Input Manipulation** | 2a | Evasion Attacks (FGSM, PGD) | [Notebook](module_02_input_manipulation/Lab_2a_Evasion_Attacks.ipynb) |
 | | 2b | Adversarial Prompt Engineering (LLMs) | [Notebook](module_02_input_manipulation/Lab_2b_Adversarial_Prompt_Engineering.ipynb) |
 | **3. Data Poisoning** | 3a | Label Flipping Attacks | [Notebook](module_03_data_poisoning/Lab_3a_Data_Poisoning_Label_Flipping.ipynb) |
