@@ -23,9 +23,8 @@ This course provides a comprehensive, hands-on introduction to the security and 
 
 | Module | Lab | Topic | Link |
 |--------|-----|-------|------|
-| **1. Foundations** | 1a | DNN Training & Robust Model Baselines | [Notebook](module_01_foundations/Lab1_DNN_Training_and_Robust_Models.ipynb) |
-| **2. Input Manipulation** | 2a | Evasion Attacks (FGSM, PGD) | [Notebook](module_02_input_manipulation/Lab_2a_Evasion_Attacks.ipynb) |
-| | 2b | Adversarial Prompt Engineering (LLMs) | [Notebook](module_02_input_manipulation/Lab_2b_Adversarial_Prompt_Engineering.ipynb) |
+| **1. Foundations** | 1 | DNN Training & Robust Model Baselines | [Notebook](module_01_foundations/Lab1_DNN_Training_and_Robust_Models.ipynb) |
+| **2. Input Manipulation** | 2 | Evasion Attacks (FGSM, PGD) | [Notebook](module_02_input_manipulation/Lab2_Evasion_Attacks.ipynb) |
 | **3. Data Poisoning** | 3a | Label Flipping Attacks | [Notebook](module_03_data_poisoning/Lab_3a_Data_Poisoning_Label_Flipping.ipynb) |
 | | 3b | Backdoor & Trigger Injection | [Notebook](module_03_data_poisoning/Lab_3b_Data_Poisoning_Backdoor_Attacks.ipynb) |
 | **4. Model Poisoning** | 4a | Model Trojans & Supply Chain Attacks | [Notebook](module_04_model_poisoning/Lab_4a_Model_Trojans_and_Supply_Chain_Attacks.ipynb) |
